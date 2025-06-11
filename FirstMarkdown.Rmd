@@ -1,5 +1,6 @@
 ---
 title: "FirstMarkdown"
-output: html_document
+author: "Mikkel"
+output: github_document
 ---
 
